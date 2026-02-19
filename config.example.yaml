@@ -1,0 +1,13 @@
+# Copy to config.yaml and set your Gemini API key.
+# Get a key at: https://aistudio.google.com/apikey
+gemini:
+  api_key: "YOUR_GEMINI_API_KEY_HERE"
+
+# Translation script settings (optional; defaults used if missing)
+translation:
+  model: "gemini-2.0-flash"
+  verse_batch_max_chars: 34000   # max chars per verse-translation request; over this, split by complete ayahs
+  tafsir_batch_chars: 25000
+  sleep_between_calls: 1.0
+  rate_limit_max_retries: 5
+  rate_limit_base_wait: 60
