@@ -87,6 +87,18 @@ Loads all vector JSONs from `pre_chroma_db/` if present, otherwise from `pre_vec
 
 ---
 
+## Chat with the Quran (RAG)
+
+After the Chroma DB is built, run the RAG chat script to ask questions in the terminal. It uses LangChain, Gemini (from `config.yaml`), and your local `chroma_db`.
+
+```powershell
+.\.conda\python.exe rag_chat.py
+```
+
+Type your question and press Enter. Type `quit` or `exit` to end. Requires `langchain`, `langchain-chroma`, and `langchain-google-genai` (see `requirements.txt`).
+
+---
+
 ## ChromaDB and embeddings
 
 Embedding behavior is controlled by `config.yaml` under `chroma`:

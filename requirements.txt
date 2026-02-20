@@ -6,3 +6,9 @@ google-genai>=1.0.0
 chromadb>=0.4.0
 sentence-transformers>=2.2.0
 # Optional: Intel Arc (embedding_device: xpu). On Windows pip often has no wheel; use "cpu" then.
+
+# For rag_chat.py (RAG with LangChain + Gemini + Chroma)
+langchain>=0.3.0
+langchain-chroma>=0.1.0
+langchain-google-genai>=2.0.0
+langchain-core>=0.3.0
