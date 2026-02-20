@@ -111,3 +111,4 @@ Embedding behavior is controlled by `config.yaml` under `chroma`:
 ---
 
 credit to:
+[SOurces of the Quran and Tafseer in indonesian] (https://github.com/rioastamal/quran-json)
