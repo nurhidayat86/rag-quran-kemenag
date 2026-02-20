@@ -163,3 +163,7 @@ cython_debug/
 #.idea/
 
 config.yaml
+surah_en_cleaned/
+pre_chroma_db/
+pre_vector_db/
+chroma_db/
