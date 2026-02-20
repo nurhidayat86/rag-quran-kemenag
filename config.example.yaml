@@ -11,3 +11,17 @@ translation:
   sleep_between_calls: 1.0
   rate_limit_max_retries: 5
   rate_limit_base_wait: 60
+
+# ChromaDB (build_chroma_db.py)
+chroma:
+  collection_name: "quran"
+  persist_dir: "chroma_db"
+  batch_size: 5000
+  pre_chroma_dir: "pre_chroma_db"
+  pre_vector_dir: "pre_vector_db"
+  use_external_embedding: true   # false = Chroma default; true = use embedding_model
+  # "gemini-embedding-001" = Google Gen AI (uses gemini.api_key). "text-embedding-004" in config is mapped to it
+  embedding_model: "gemini-embedding-001"
+  embedding_device: "cpu"   # for sentence-transformers only: "cuda" (NVIDIA); "xpu" (Intel Arc)
+  embed_batch_size: 100     # Google embed API batch size (when using Google embedding)
+  huggingface_access_token: ""   # HF token for sentence-transformers (optional)

@@ -1,3 +1,8 @@
 # For translate_to_english.py
 PyYAML>=6.0
 google-genai>=1.0.0
+
+# For build_chroma_db.py (sentence_transformers needed when use_external_embedding: true)
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+# Optional: Intel Arc (embedding_device: xpu). On Windows pip often has no wheel; use "cpu" then.

@@ -1,0 +1,56 @@
+{
+    "112": {
+        "number": "112",
+        "name": "الاخلاص",
+        "name_latin": "Al-Ikhlas",
+        "number_of_ayah": "4",
+        "text": {
+            "1": "قُلْ هُوَ اللّٰهُ اَحَدٌۚ",
+            "2": "اَللّٰهُ الصَّمَدُۚ",
+            "3": "لَمْ يَلِدْ وَلَمْ يُوْلَدْۙ",
+            "4": "وَلَمْ يَكُنْ لَّهٗ كُفُوًا اَحَدٌ ࣖ"
+        },
+        "translations": {
+            "id": {
+                "name": "Ikhlas",
+                "text": {
+                    "1": "Katakanlah (Muhammad), “Dialah Allah, Yang Maha Esa.",
+                    "2": "Allah tempat meminta segala sesuatu.",
+                    "3": "(Allah) tidak beranak dan tidak pula diperanakkan.",
+                    "4": "Dan tidak ada sesuatu yang setara dengan Dia.”"
+                }
+            },
+            "en": {
+                "name": "Sincerity",
+                "text": {
+                    "1": "Say, \"He is Allah, [who is] One,",
+                    "2": "Allah, the Eternal Refuge.",
+                    "3": "He neither begets nor is born,",
+                    "4": "Nor is there to Him any equivalent.\""
+                }
+            }
+        },
+        "tafsir": {
+            "id": {
+                "name": "Kemenag",
+                "source": "Aplikasi Quran Kementrian Agama Republik Indonesia",
+                "text": {
+                    "1": "Pada ayat ini, Allah menyuruh Nabi Muhammad menjawab pertanyaan orang-orang yang menanyakan tentang sifat Tuhannya, bahwa Dia adalah Allah Yang Maha Esa, tidak tersusun dan tidak berbilang, karena berbilang dalam susunan zat berarti bahwa bagian kumpulan itu memerlukan bagian yang lain, sedang Allah sama sekali tidak memerlukan suatu apa pun. Keesaan Allah itu meliputi tiga hal: Dia Maha Esa pada Zat-Nya, Maha Esa pada sifat-Nya dan Maha Esa pada perbuatan-Nya.\n\nMaha Esa pada zat-Nya berarti zat-Nya tidak tersusun dari beberapa zat atau bagian. Maha Esa pada sifat-Nya berarti tidak ada satu sifat makhluk pun yang menyamai-Nya dan Maha Esa pada perbuatan-Nya berarti Dialah yang membuat semua perbuatan sesuai dengan firman-Nya:\n\nSesungguhnya urusan-Nya apabila Dia menghendaki sesuatu Dia hanya berkata kepadanya, \"Jadilah!\" Maka jadilah sesuatu itu. (Yasin/36 : 82)",
+                    "2": "Allah menambahkan dalam ayat ini penjelasan tentang sifat Tuhan Yang Maha Esa itu, yaitu Dia adalah Tuhan tempat meminta dan memohon.",
+                    "3": "Allah lalu menegaskan bahwa Mahasuci Ia dari mempunyai anak. Ayat ini juga menentang dakwaan orang-orang musyrik Arab yang mengatakan bahwa malaikat-malaikat adalah anak perempuan Allah dan dakwaan orang Nasrani bahwa Isa anak laki-laki Allah. Dalam ayat lain, Allah berfirman:\n\nMaka tanyakanlah (Muhammad) kepada mereka (orang-orang kafir Mekah), \"Apakah anak-anak perempuan itu untuk Tuhanmu sedangkan untuk mereka anak-anak laki-laki?\" Atau apakah Kami menciptakan malaikat-malaikat berupa perempuan sedangkan mereka menyaksikan(nya)? Ingatlah, sesungguhnya di antara kebohongannya mereka benar-benar mengatakan, \"Allah mempunyai anak.\" Dan sungguh, mereka benar-benar pendusta. (as-saffat/37: 149-152)\n\nAllah tidak beranak, dan tidak pula diperanakkan. Dengan demikian, Dia tidak sama dengan makhluk. Dia berada tidak didahului oleh tidak ada. Mahasuci Allah dari apa yang mereka sebutkan.\n\nIbnu 'Abbas berkata, \"Dia tidak beranak sebagaimana Maryam melahirkan Isa dan tidak pula diperanakkan. Ini adalah bantahan terhadap orang-orang Nasrani yang mengatakan Isa al-Masih adalah anak Allah dan bantahan terhadap orang-orang Yahudi yang mengatakan Uzair adalah anak Allah.",
+                    "4": "Dalam ayat ini, Allah menjelaskan lagi bahwa tidak ada yang setara dan sebanding dengan Dia dalam zat, sifat, dan perbuatan-Nya. Ini adalah tantangan terhadap orang-orang yang beritikad bahwa ada yang setara dan menyerupai Allah dalam perbuatannya, sebagaimana pendirian orang-orang musyrik Arab yang menyatakan bahwa malaikat itu adalah sekutu Allah."
+                }
+            },
+            "en": {
+                "name": "Sincerity",
+                "source": "Aplikasi Quran Kementrian Agama Republik Indonesia",
+                "text": {
+                    "1": "In this verse, Allah commands the Prophet Muhammad to answer the questions of those who ask about the nature of their Lord, that He is Allah, the One and Only, not composed and not numbered, because being numbered in the composition of essence means that the parts of the collection require the other parts, while Allah is completely independent of anything. The Oneness of Allah encompasses three things: He is One in His Essence, One in His Attributes, and One in His Actions.\n\nOne in His Essence means that His Essence is not composed of several essences or parts. One in His Attributes means that there is no attribute of creation that resembles Him. And One in His Actions means that He is the One who creates all actions in accordance with His word:\n\n\"Indeed, His command is when He intends a thing, He says to it, \"Be,\" and it is.\" (Yasin/36:82)",
+                    "2": "Allah adds in this verse an explanation about the attributes of the One God, namely that He is the Lord to whom requests are made and supplications are offered.",
+                    "3": "Allah then affirms that He is far removed from having a child. This verse also refutes the claims of the Arab polytheists who said that the angels are daughters of Allah and the claims of the Christians that Jesus is the son of Allah. In another verse, Allah says:\n\n\"Then ask them (O Muhammad) whether for your Lord are daughters and for them sons? Or did We create the angels as females while they were witnesses? Unquestionably, it is out of their [invented] fabrication that they say, \"Allah has begotten.\" And indeed, they are liars.\" (as-Saffat/37: 149-152)\n\nAllah does not beget, nor is He begotten. Thus, He is not the same as creation. He exists without being preceded by non-existence. Exalted is Allah above what they attribute to Him.\n\nIbn 'Abbas said, \"He does not beget as Maryam gave birth to Jesus, nor is He begotten. This is a refutation of the Christians who say that Jesus al-Masih is the son of Allah and a refutation of the Jews who say that Uzair is the son of Allah.\"",
+                    "4": "In this verse, Allah further clarifies that nothing is equivalent or comparable to Him in His essence, attributes, and actions. This is a challenge to those who believe that something is equal to and resembles Allah in His actions, as was the stance of the Arab polytheists who declared that the angels were partners of Allah."
+                }
+            }
+        }
+    }
+}
